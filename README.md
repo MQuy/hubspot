@@ -32,5 +32,5 @@ Important note: as hubspot doesn't support testing/staging environments, please 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/mquy/hubspot2. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/MQuy/hubspot. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
